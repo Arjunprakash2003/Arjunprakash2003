@@ -12,7 +12,7 @@
  
  🔭 Currently Pursuing B.Tech in Computer Science And Engineering **@Amrita Vishwa Vidyapeetham**.
  
- 🛠️ I craft Digital Solutions that make an impact.
+ 🛠️ I craft **Digital Solutions** that make an impact.
 
  💬 Ask me about **Life advice 🤣🤣🤣, Tech solution 👨🏻‍💻 or anything [here](https://github.com/Arjunprakash2003/Arjunprakash2003/issues)**
 
@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/arjun-prakash-172a19257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://Arjunprakash2003.github.io" target="_blank">
+  <a href="https://[Arjunprakash2003.github.io](https://www.instagram.com/arj_un_pra_kash?igsh=MTRzbjhwcnNocGg3aQ%3D%3D&utm_source=qr)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
